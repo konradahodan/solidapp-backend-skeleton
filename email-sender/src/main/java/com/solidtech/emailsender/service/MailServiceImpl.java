@@ -116,7 +116,7 @@ public class MailServiceImpl implements  MailService {
             mailSender.send(mimeMessageHelper.getMimeMessage());
 
             Mail mail = mailDto.getMailFromDto();
-
+tocu
             Mail mailSave = mailDao.save(mail);
 
             List<AttachmentDto> attachmentDtos = mailDto.getAttachmentDtos();
