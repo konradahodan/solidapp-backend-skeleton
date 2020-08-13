@@ -8,11 +8,11 @@
         <option value="$PROJECT_DIR$/microservice-x/pom.xml" />
         <option value="$PROJECT_DIR$/spring-admin/pom.xml" />
         <option value="$PROJECT_DIR$/x-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/zipkin-distributed-tracing-server/pom.xml" />
         <option value="$PROJECT_DIR$/zuul-api-gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-commandes/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-paiement/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-produits/pom.xml" />
+        <option value="$PROJECT_DIR$/email-sender/pom.xml" />
       </list>
     </option>
   </component>

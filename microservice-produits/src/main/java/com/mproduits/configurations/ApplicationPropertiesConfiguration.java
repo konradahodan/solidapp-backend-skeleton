@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @ConfigurationProperties("mes-configs")
+@RefreshScope // http://localhost:9001/actuator/refresh -> recharge à nouveau la config
 public class ApplicationPropertiesConfiguration {
 
     private int limitDeProduits;

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-sender/email-sender.iml" filepath="$PROJECT_DIR$/email-sender/email-sender.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/microservice-commandes/mcommandes.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-x/microservice-x.iml" filepath="$PROJECT_DIR$/microservice-x/microservice-x.iml" />
@@ -11,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-produits/mproduits.iml" filepath="$PROJECT_DIR$/microservice-produits/mproduits.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-admin/spring-admin.iml" filepath="$PROJECT_DIR$/spring-admin/spring-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/x-consumer/x-consumer.iml" filepath="$PROJECT_DIR$/x-consumer/x-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zipkin-distributed-tracing-server/zipkin-distributed-tracing-server.iml" filepath="$PROJECT_DIR$/zipkin-distributed-tracing-server/zipkin-distributed-tracing-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul-api-gateway-server/zuul-api-gateway-server.iml" filepath="$PROJECT_DIR$/zuul-api-gateway-server/zuul-api-gateway-server.iml" />
     </modules>
   </component>
